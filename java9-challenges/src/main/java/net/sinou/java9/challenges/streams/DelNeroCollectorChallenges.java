@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Play with the new {@code Stream#collect()collect } method. Kindly provided
+ * Play with the new {@code Stream#collect()} method. Kindly provided
  * by @RafaDelNero
  */
 public class DelNeroCollectorChallenges {
